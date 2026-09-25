@@ -1,0 +1,6 @@
+node_modules
+whisper.cpp/build
+.git
+.next
+dist
+crucial-shorts-data
